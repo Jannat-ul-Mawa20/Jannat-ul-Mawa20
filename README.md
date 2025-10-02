@@ -32,7 +32,7 @@ I’m a software engineer with experience in web development, passionate about s
 > Tools, languages, and other things I am working with.
 <a href="https://github.com/Jannat-ul-Mawa20/">
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,tailwind,bootstrap,js,ts,react,reactrouter,redux,materialui,nextjs,figma,npm,nodejs,mysql,firebase,streamlit,python,c,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,vercel,kaggle,netlify,slack,discord,chatgpt,anaconda,cursor,powershell" /></p>
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,tailwind,bootstrap,js,ts,react,reactrouter,materialui,nextjs,figma,npm,nodejs,mysql,firebase,streamlit,python,c,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,kaggle,netlify,slack,discord,chatgpt,anaconda,powershell" /></p>
 </a>
 
 
@@ -57,10 +57,10 @@ I’m a software engineer with experience in web development, passionate about s
 
 ## Fun Facts 🌱
 
-😴 I’m lazy but smart (I always find shortcuts to make life easier).
-📚 I enjoy reading books on personality development & self-growth.
-🎂 I love baking cakes (and yes, I eat them too 🍰).
-🔥 “Curiosity never lets me stay still.”
+- 😴 I’m lazy but smart.
+- 📚 I enjoy reading books on personality development & self-growth.
+- 🎂 I love baking cakes (and yes, I eat them too 🍰).
+- 🔥 “Curiosity never lets me stay still.”
 
 ---
 

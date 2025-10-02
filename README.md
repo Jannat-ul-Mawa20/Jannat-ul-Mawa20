@@ -40,6 +40,13 @@ I’m a software engineer with experience in web development, passionate about s
 
 
 
+ ## Connect with me🤝:
+<div align="center">
+    <a href="https://www.linkedin.com/in/arhamansari12/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:arham96100@gmail.com"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!--     <a href="https://leetcode.com/u/arhamansari11/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a> -->
+    <a href="https://lablab.ai/u/@Arhamansari" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+</div>
 
 
 
@@ -49,7 +56,7 @@ I’m a software engineer with experience in web development, passionate about s
 
 
 ## Github Stats📈:
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Jannat-ul-Mawa20">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jannat-ul-Mawa20
 &show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -66,4 +73,13 @@ I’m a software engineer with experience in web development, passionate about s
    </a>  
  </p>
 
-<br>
+<br> -->
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jannat-ul-Mawa20&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jannat-ul-Mawa20&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannat-ul-Mawa20&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---

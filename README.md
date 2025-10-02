@@ -1,5 +1,3 @@
-## Hi, I'm Jannat 👋
-<h3>A Passionate Software Engineer from Lahore, Pakistan</h3>
 
 <!--
 **Jannat-ul-Mawa20/Jannat-ul-Mawa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +18,10 @@ Here are some ideas to get you started:
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Jannat-ul-Mawa20&data=followers,repositories,stars,commits&theme=rgb">
 </a>
 
-
 ---
 
-
+## Hi, I'm Jannat 👋
+<h3>A Passionate Software Engineer from Lahore, Pakistan</h3>
 
 I’m a software engineer with experience in web development, passionate about solving real-world problems through technology. Currently, I'm enhancing my skills in Data Structures and Algorithms, participating in hackathons. I'm also excited to explore AI-based solutions and work on innovative projects.
 
@@ -34,47 +32,39 @@ I’m a software engineer with experience in web development, passionate about s
 > Tools, languages, and other things I am working with.
 <a href="https://github.com/Jannat-ul-Mawa20/">
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,tailwind,bootstrap,js,ts,react,reactrouter,redux,materialui,nextjs,figma,npm,nodejs,express,ejs,mongodb,mysql,firebase,streamlit,python,c,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,vercel,kaggle,netlify,svg,slack,discord,chatgpt,anaconda,cursor,powershell" />
-</p>
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,tailwind,bootstrap,js,ts,react,reactrouter,redux,materialui,nextjs,figma,npm,nodejs,mysql,firebase,streamlit,python,c,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,vercel,kaggle,netlify,slack,discord,chatgpt,anaconda,cursor,powershell" /></p>
 </a>
 
 
+ ## Connect with me 🤝:
 
- ## Connect with me🤝:
-<div align="center">
-    <a href="https://www.linkedin.com/in/arhamansari12/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:arham96100@gmail.com"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!--     <a href="https://leetcode.com/u/arhamansari11/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a> -->
-    <a href="https://lablab.ai/u/@Arhamansari" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
-</div>
+<!-- <p align="center">
+<a href="https://www.linkedin.com/in/jannat-ul-mawa20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jannat-ul-mawa20/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/stackoverflow.com/users/21156131/jannat-ul-mawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/21156131/jannat-ul-mawa" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/profile.php?id=100061029926998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/profile.php?id=100061029926998" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/profile.php?id=100061029926998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/profile.php?id=100061029926998" height="30" width="40" /></a>
 
-
-
+</p> -->
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jannat-ul-mawa20/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/21156131/jannat-ul-mawa"  target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="mailto:jannatsheikh131@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+</p>
 
 
+
+## Fun Facts 🌱
+
+😴 I’m lazy but smart (I always find shortcuts to make life easier).
+📚 I enjoy reading books on personality development & self-growth.
+🎂 I love baking cakes (and yes, I eat them too 🍰).
+🔥 “Curiosity never lets me stay still.”
+
+---
 
 ## Github Stats📈:
-<!-- <p align="center">
-    <a href="https://github.com/Jannat-ul-Mawa20">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jannat-ul-Mawa20
-&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jannat-ul-Mawa20
-&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p> 
-
-
-
- <p align="center">
-   <a href="https://github.com/Jannat-ul-Mawa20"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jannat-ul-Mawa20&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
-   </a>  
- </p>
-
-<br> -->
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jannat-ul-Mawa20&show_icons=true&theme=radical" alt="GitHub Stats" />
